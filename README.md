@@ -30,6 +30,7 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 
 <img src="https://it-infrastructure.solutions/content/images/2022/04/WindowsBanner-1.png" alt="Banner de Base de Datos" width="150" height="50">
 <img src="https://www.comoinstalarlinux.com/wp-content/uploads/debian-logo.jpg" alt="Banner de Base de Datos" width="150" height="50">
+<img src="https://i0.wp.com/lrodrigo.tec.br/wp-content/uploads/2023/02/ubuntu-banner-2023c.png?fit=1000%2C352&ssl=1" alt="Banner de Base de Datos" width="150" height="50">
 
 
 
