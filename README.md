@@ -10,9 +10,10 @@
 
 ## **Experiencia**
 
-* **[Reponedor]** - [GRUPO STOCK] - [2014-2018]
+* **[Reponedor]** - [GRUPO STOCK] - [2014-2016]
     * [En este puesto amplie mis habilidades comunicativas y trabajo en equipo]
-* **[Transportista]** 
+* **[Chofer Vehículos Industriales]** [2023-2024]
+* **[Ayudante Recambios en taller]** [Serinve] [2023-2024]
    
 
 ## **Habilidades**
