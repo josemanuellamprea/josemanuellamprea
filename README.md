@@ -27,7 +27,7 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 | **Base de Datos**                 | MySQL, Micrososft Server, Oracle                  |
 
 ## **Sistemas Operativos**
-
+![Debian](https://it-infrastructure.solutions/content/images/2022/04/WindowsBanner-1.png)
 
 
 ## **Educación**
