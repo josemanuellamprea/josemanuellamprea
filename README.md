@@ -32,6 +32,12 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 <img src="https://www.comoinstalarlinux.com/wp-content/uploads/debian-logo.jpg" alt="Banner de Base de Datos" width="150" height="50">
 <img src="https://i0.wp.com/lrodrigo.tec.br/wp-content/uploads/2023/02/ubuntu-banner-2023c.png?fit=1000%2C352&ssl=1" alt="Banner de Base de Datos" width="150" height="50">
 
+## **Bases de Datos**
+
+<img src="https://datawookie.dev/img/headers/banner-mysql.png" alt="Banner de Base de Datos" width="150" height="50">
+<img src="https://www.bisacorporation.com/sites/default/files/styles/portada_2000_/public/2019-05/oracle-banner.png?itok=lmoxg3Sj" alt="Banner de Base de Datos" width="150" height="50">
+<img src="https://bonisql.com/wp-content/uploads/2020/11/banner3.jpg?w=1200" alt="Banner de Base de Datos" width="150" height="50">
+
 
 
 ## **Educación**
