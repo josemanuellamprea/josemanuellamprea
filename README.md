@@ -28,7 +28,7 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 
 ## **Sistemas Operativos**
 
-<img src="https://it-infrastructure.solutions/content/images/2022/04/WindowsBanner-1.png" alt="Banner de Base de Datos" width="300" height="150">
+<img src="https://it-infrastructure.solutions/content/images/2022/04/WindowsBanner-1.png" alt="Banner de Base de Datos" width="100" height="50">
 
 
 
