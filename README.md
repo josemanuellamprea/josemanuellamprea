@@ -26,6 +26,9 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 | **Lenguaje Informático**          | XML, HTML, Markdown entre otros                   |
 | **Base de Datos**                 | MySQL, Micrososft Server, Oracle                  |
 
+## **Sistemas Operativos**
+
+
 
 ## **Educación**
 
