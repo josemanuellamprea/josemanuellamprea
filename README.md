@@ -6,7 +6,7 @@
 
 ## **Un poco sobre mi**
 
-[Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formación, apasionado por la tecnología y con sólidos conocimientos en virtualización, administración de redes y sistemas operativos. Actualmente cursando el segundo año del grado superior, con experiencia práctica en plataformas como VirtualBox y Proxmox. Orientado a la resolución de problemas, con ganas de seguir aprendiendo y contribuir a la gestión eficiente de entornos IT.]
+Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formación, apasionado por la tecnología y con sólidos conocimientos en virtualización, administración de redes y sistemas operativos. Actualmente cursando el segundo año del grado superior, con experiencia práctica en plataformas como VirtualBox y Proxmox. Orientado a la resolución de problemas, con ganas de seguir aprendiendo y contribuir a la gestión eficiente de entornos IT.
 
 ## **Experiencia**
 
