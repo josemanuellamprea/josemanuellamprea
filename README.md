@@ -13,7 +13,7 @@ Técnico en Administración de Sistemas Informáticos en Red (ASIR) en formació
 * **[Reponedor]** - [GRUPO STOCK] - [2014-2016]
     * [En este puesto amplie mis habilidades comunicativas y trabajo en equipo]
 * **[Chofer Vehículos Industriales]** [2023-2024]
-* **[Ayudante Recambios en taller]** [Serinve] [2023-2024]
+* **[Ayudante Recambios en taller]** [Serinve] [2022-2023]
    
 
 ## **Habilidades**
